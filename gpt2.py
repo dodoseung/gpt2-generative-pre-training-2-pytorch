@@ -1,4 +1,4 @@
-# Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017).
+# Radford, Alec, et al. "Language models are unsupervised multitask learners." OpenAI blog 1.8 (2019): 9.
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
